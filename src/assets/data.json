@@ -1,0 +1,997 @@
+{
+  "results": [
+    {
+    "id": "1",
+    "icon": "assets/imgs/1.Ar-Rahman.gif",
+    "eng_name": "Ar-Rahman",
+    "bn_name" : "আর-রহ'মান",
+    "bn_meaning":"পরম দয়ালু",
+    "eng_meaning" : "The Beneficent",
+    "explanation" : "He who wills goodness and mercy for all His creatures",
+    "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+  },
+    {
+      "id": "2",
+      "icon": "assets/imgs/2.Ar-Raheem.gif",
+      "eng_name": "Ar-Raheem",
+      "bn_name" : "আর-রহী'ম",
+      "bn_meaning":"অতিশয়-মেহেরবান",
+      "eng_meaning" : "The Merciful",
+      "explanation" : "He who acts with extreme kindness",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ সব বিপর্যয়ের এবং রোগ বিরুদ্ধে আপনাকে রক্ষা করবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "3",
+      "icon": "assets/imgs/3.Al-Malik.gif",
+      "eng_name": "Al-Malik",
+      "bn_name" : "আল-মালিক",
+      "bn_meaning":"সর্বকর্তৃত্বময়",
+      "eng_meaning" : "The Eternal Lord",
+      "explanation" : "He who acts with extreme kindness",
+      "fazilat": "আপনি যাওয়াল (মধ্য দিনের সময় অবিলম্বে জোহর প্রার্থনা আগে) পরে যদি প্রতিদিন প্রচুর পরিমাণে আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনাকে প্রচুর সম্পদ দিতে হবে। ইন শা-আল্লাহ।"
+
+
+    },
+    {
+      "id": "4",
+      "icon": "assets/imgs/4.Al-Quddus.gif",
+      "eng_name": "Al-Quddus",
+      "bn_name" : "আল-কুদ্দুস",
+      "bn_meaning":"নিষ্কলুষ, অতি পবিত্র",
+      "eng_meaning" : "The Most Sacred",
+      "explanation" : "He who acts with extreme kindness",
+      "fazilat": "আপনি প্রতিদিন প্রচুর পরিমাণে আল্লাহর এই নাম পাঠ করেন, আল্লাহ সব আধ্যাত্মিক অসুস্থতা আপনি আরোগ্য করা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "5",
+      "icon": "assets/imgs/5. As-Salam.gif",
+      "eng_name": "As-Salam",
+      "bn_name" : "আস-সালাম",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Embodiment of Peace",
+      "explanation" : "He who acts with extreme kindness",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "6",
+      "icon": "assets/imgs/6. Al-Mu'min.gif",
+      "eng_name": "Al-Mu'min",
+      "bn_name" : "আল-মু'মিন",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Infuser of Faith",
+      "explanation" : "He who acts with extreme kindness",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "7",
+      "icon": "assets/imgs/7. Al-Muhaymin - The Preserver of Safety.gif",
+      "eng_name": "Al-Muhaymin",
+      "bn_name" : "আল-মুহাইমিন",
+      "bn_meaning":"......",
+      "eng_meaning" : "The Preserver of Safety",
+      "explanation" : ".......",
+      "fazilat": "....."
+
+    },
+    {
+      "id": "8",
+      "icon": "assets/imgs/8. Al-Aziz - The Mighty One.gif",
+      "eng_name": "Al-Aziz",
+      "bn_name" : "আল-আ'জীজ",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "9",
+      "icon": "assets/imgs/9. Al-Jabbar - The Omnipotent One.gif",
+      "eng_name": "Al-Jabbar",
+      "bn_name" : "আল-জাব্বার",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+
+    {
+      "id": "10",
+      "icon": "assets/imgs/10. Al-Mutakabbir - The Dominant One.gif",
+      "eng_name": "Al-Mutakabbir",
+      "bn_name" : "আল-মুতাকাব্বিইর",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "11",
+      "icon": "assets/imgs/11. Al-Khaliq - The Creator.gif",
+      "eng_name": "Al-Khaliq",
+      "bn_name" : "আল-খালিক্ব",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "12",
+      "icon": "assets/imgs/12. Al-Baari - The Evolver.gif",
+      "eng_name": "Al-Baari",
+      "bn_name" : "আল-বারী",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "13",
+      "icon": "assets/imgs/13. Al-Musawwir - The Flawless Shaper.gif",
+      "eng_name": "Al-Musawwir",
+      "bn_name" : "আল-মুছউইর",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },{
+      "id": "14",
+      "icon": "assets/imgs/14. Al-Ghaffar - The Great Forgiver.gif",
+      "eng_name": "Al-Ghaffar",
+      "bn_name" : "আল-গফ্ফার",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },{
+      "id": "15",
+      "icon": "assets/imgs/15. Al-Qahhar - The All-Prevailing One.gif",
+      "eng_name": "Al-Qahhar",
+      "bn_name" : "আল-ক্বাহার",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },{
+      "id": "16",
+      "icon": "assets/imgs/16. Al-Wahhab - The Supreme Bestower.gif",
+      "eng_name": "Al-Wahhab",
+      "bn_name" : "আল-ওয়াহ্হাব",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },{
+      "id": "17",
+      "icon": "assets/imgs/17. Ar-Razzaq - The Total Provider.gif",
+      "eng_name": "Ar-Razzaq",
+      "bn_name" : "আর-রজ্জাক্ব",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },{
+      "id": "18",
+      "icon": "assets/imgs/18. Al-Fattah - The Supreme Solver.gif",
+      "eng_name": "Al-Fattah",
+      "bn_name" : "আল ফাত্তাহ",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },{
+      "id": "19",
+      "icon": "assets/imgs/19. Al-Alim - The All-Knowing One.gif",
+      "eng_name": "Al-Alim",
+      "bn_name" : "আল-আ'লীম",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },{
+      "id": "20",
+      "icon": "assets/imgs/20. Al-Qabid - The Restricting One.gif",
+      "eng_name": "Al-Qabid",
+      "bn_name" : "......",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "21",
+      "icon": "assets/imgs/21. Al-Basit - The Extender.gif",
+      "eng_name": "Al-Basit",
+      "bn_name" : ".......",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "22",
+      "icon": "assets/imgs/22. Al-Khafid - The Reducer.gif",
+      "eng_name": "Al-Khafid",
+      "bn_name" : "......",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "23",
+      "icon": "assets/imgs/23. Ar-Rafi - The Elevating One.gif",
+      "eng_name": "Ar-Rafi",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "24",
+      "icon": "assets/imgs/24. Al-Mu'izz - The Honourer-Bestower.gif",
+      "eng_name": "Al-Mu'izz",
+      "bn_name" : ".....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "25",
+      "icon": "assets/imgs/25. Al-Muzil - The Abaser.gif",
+      "eng_name": "Al-Muzil",
+      "bn_name" : ".........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "26",
+      "icon": "assets/imgs/26. As-Sami' - The All-Hearer.gif",
+      "eng_name": "As-Sami",
+      "bn_name" : ".....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "27",
+      "icon": "assets/imgs/27. Al-Baseer - The All-Seeing.gif",
+      "eng_name": "Al-Baseer",
+      "bn_name" : "......",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "28",
+      "icon": "assets/imgs/28. Al-Hakam - The Impartial Judge.gif",
+      "eng_name": "Al-Hakam",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "29",
+      "icon": "assets/imgs/29. Al-Adl - The Embodiment of Justice.gif",
+      "eng_name": "Al-Adl",
+      "bn_name" : "....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "30",
+      "icon": "assets/imgs/30. Al-Lateef - The Knower of Subtleties.gif",
+      "eng_name": "Al-Lateef",
+      "bn_name" : "...",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "31",
+      "icon": "assets/imgs/31. Al-Khabeer - The All-Aware One.gif",
+      "eng_name": "Al-Khabeer",
+      "bn_name" : ".....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "32",
+      "icon": "assets/imgs/32. Al-Haleem - The Clement One.gif",
+      "eng_name": "Al-Haleem",
+      "bn_name" : ".....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "33",
+      "icon": "assets/imgs/33. Al-Azeem - The Magnificent One.gif",
+      "eng_name": "Al-Azeem",
+      "bn_name" : ".......",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "34",
+      "icon": "assets/imgs/34. Al-Ghafoor - The Great Forgiver.gif",
+      "eng_name": "Al-Ghafoor",
+      "bn_name" : ".....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "35",
+      "icon": "assets/imgs/35. Ash-Shakoor - The Acknowledging One.gif",
+      "eng_name": "Ash-Shakoor",
+      "bn_name" : "....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "36",
+      "icon": "assets/imgs/36. Al-Aliyy - The Sublime One.gif",
+      "eng_name": "Al-Aliyy",
+      "bn_name" : ".....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "37",
+      "icon": "assets/imgs/37. Al-Kabeer - The Great One.gif",
+      "eng_name": "Al-Kabeer",
+      "bn_name" : ".....",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "38",
+      "icon": "assets/imgs/38. Al-Hafiz - The Guarding One.gif",
+      "eng_name": "Al-Hafiz",
+      "bn_name" : "...",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "39",
+      "icon": "assets/imgs/39. Al-Muqeet - The Sustaining One.gif",
+      "eng_name": "Al-Muqeet",
+      "bn_name" : ".......",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "40",
+      "icon": "assets/imgs/40. Al-Haseeb - The Reckoning One.gif",
+      "eng_name": "Al-Haseeb",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "41",
+      "icon": "assets/imgs/41. Al-Jaleel - The Majestic One.gif",
+      "eng_name": "Al-Jaleel",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "42",
+      "icon": "assets/imgs/42. Al-Kareem - The Bountiful One.gif",
+      "eng_name": "Al-Kareem",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "43",
+      "icon": "assets/imgs/43. Ar-Raqeeb - The Watchful One.gif",
+      "eng_name": "Ar-Raqeeb",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "44",
+      "icon": "assets/imgs/44. Al-Mujeeb - The Responding One.gif",
+      "eng_name": "Al-Mujeeb",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "45",
+      "icon": "assets/imgs/45. Al-Waasi' - The All-Pervading One.gif",
+      "eng_name": "Al-Waasi",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "46",
+      "icon": "assets/imgs/46. Al-Hakeem - The Wise One.gif",
+      "eng_name": "Al-Hakeem",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "47",
+      "icon": "assets/imgs/47. Al-Wadud - The Loving One.gif",
+      "eng_name": "Al-Wadud",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "48",
+      "icon": "assets/imgs/48. Al-Majeed - The Glorious One.gif",
+      "eng_name": "Al-Majeed",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "49",
+      "icon": "assets/imgs/49. Al-Ba'ith - The Infuser of New Life.gif",
+      "eng_name": "Al-Ba'ith",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "50",
+      "icon": "assets/imgs/50. Ash-Shaheed - The All Observing Witness.gif",
+      "eng_name": "Ash-Shaheed",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "51",
+      "icon": "assets/imgs/51. Al-Haqq - The Embodiment of Truth.gif",
+      "eng_name": "Al-Haqq",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "52",
+      "icon": "assets/imgs/52. Al-Wakeel - The Universal Trustee.gif",
+      "eng_name": "Al-Wakeel",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "53",
+      "icon": "assets/imgs/53. Al-Qawiyy - The Strong One.gif",
+      "eng_name": "Al-Qawiyy",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "54",
+      "icon": "assets/imgs/54. Al-Mateen - The Firm One.gif",
+      "eng_name": "Al-Mateen",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+
+    {
+      "id": "55",
+      "icon": "assets/imgs/55. Al-Waliyy - The Protecting Associate.gif",
+      "eng_name": "Al-Waliyy",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "56",
+      "icon": "assets/imgs/56. Al-Hameed - The Sole-Laudable One.gif",
+      "eng_name": "Al-Hameed",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "57",
+      "icon": "assets/imgs/57. Al-Muhsee - The All-Enumerating One.gif",
+      "eng_name": "Al-Muhsee",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "58",
+      "icon": "assets/imgs/58. Al-Mubdi - The Originator.gif",
+      "eng_name": "Al-Mubdi",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "59",
+      "icon": "assets/imgs/59. Al-Mueed - The Restorer.gif",
+      "eng_name": "Al-Mueed",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "60",
+      "icon": "assets/imgs/60. Al-Muhyi - The Maintainer of life.gif",
+      "eng_name": "Al-Muhyi",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "61",
+      "icon": "assets/imgs/61. Al-Mumeet - The Inflictor of Death.gif",
+      "eng_name": "Al-Mumeet",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "62",
+      "icon": "assets/imgs/62. Al-Hayy - The Eternally Living One.gif",
+      "eng_name": "Al-Hayy",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "63",
+      "icon": "assets/imgs/63. Al-Qayyoom - The Self-Subsisting One.gif",
+      "eng_name": "Al-Qayyoom",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "64",
+      "icon": "assets/imgs/64. Al-Waajid - The Pointing One.gif",
+      "eng_name": "Al-Waajid",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "65",
+      "icon": "assets/imgs/65. Al-Maajid - The All Noble One.gif",
+      "eng_name": "Al-Maajid",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "66",
+      "icon": "assets/imgs/66. Al-Waahid - The Only One.gif",
+      "eng_name": "Al-Waahid",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "67",
+      "icon": "assets/imgs/67. Al-Ahad - The Sole One.gif",
+      "eng_name": "Al-Ahad",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "68",
+      "icon": "assets/imgs/68. As-Samad - The Supreme Provider.gif",
+      "eng_name": "As-Samad",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "69",
+      "icon": "assets/imgs/69. Al-Qaadir - The Omnipotent One.gif",
+      "eng_name": "Al-Qaadir",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "70",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "71",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "72",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "........",
+      "bn_meaning":"......",
+      "eng_meaning" : ".......",
+      "explanation" : ".......",
+      "fazilat": "....."
+    },
+    {
+      "id": "73",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "74",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "75",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "76",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "77",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "78",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "79",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "80",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "81",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "82",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "83",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "84",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "85",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "86",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "87",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "88",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "89",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "90",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "91",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "92",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "93",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "94",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "95",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "96",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "97",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "98",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    },
+    {
+      "id": "99",
+      "icon": "assets/imgs/1.Ar-Rahman.gif",
+      "eng_name": "Ar-Rahman",
+      "bn_name" : "আর-রহ'মান",
+      "bn_meaning":"পরম দয়ালু",
+      "eng_meaning" : "The Beneficent",
+      "fazilat": "আপনি প্রতি নামায (প্রার্থনা) এর পর ১০০ বার দৈনন্দিন আল্লাহর এই নাম পাঠ করেন, আল্লাহ আপনার হৃদয় থেকে কঠিন নির্মমতা ও অবহেলার মুছে ফেলা হবে। ইন শা-আল্লাহ।"
+
+    }
+
+  ]
+}

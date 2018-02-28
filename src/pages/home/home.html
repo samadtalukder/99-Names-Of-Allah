@@ -4,11 +4,83 @@
       Ionic Blank
     </ion-title>
   </ion-navbar>
+  <!--<ion-searchbar [(ngModel)]="searchQuery" (ionInput)="getItems($event)"></ion-searchbar>-->
 </ion-header>
 
-<ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+<ion-content padding="">
+
+ <!-- <ion-grid>
+    <ion-row *ngFor="let i of rows">
+      <ion-col *ngFor="let _99name of nameoCategory | slice:(i*3)" width-25>
+        <ion-card>
+          <img src="{{_99name.icon}}" />
+          <ion-card-content>
+            <ion-card-title>
+              {{_99name.name}}
+            </ion-card-title>
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>-->
+  <ion-grid>
+
+
+  <ion-row>
+    <ion-col width-25 *ngFor="let _99name of nameoCategory" (click)="nav(_99name)">
+
+      <ion-card>
+        <img src="{{_99name.icon}}">
+        <ion-card-content>
+          <ion-card-title>
+            <p>{{_99name.eng_name}}</p>
+            <p>{{_99name.bn_name}}</p>
+          </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+    </ion-col>
+
+    <!--<ion-col>
+      <ion-card>
+        <img src="assets/imgs/1.Ar-Rahman.gif">
+        <ion-card-content>
+          <ion-card-title>
+            <p>Ar-Rahman</p>
+          </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+
+  </ion-col>-->
+  </ion-row>
+
+    <!--<ion-row justify-content-around responsive-sm>
+    <ion-col col-25>
+
+      <ion-card>
+        <img src="https://placehold.it/75">
+        <ion-card-content>
+          <ion-card-title>
+            <p>আর-রহ'মান</p>
+          </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+</ion-col>
+
+    <ion-col>
+      <ion-card>
+        <img src="https://placehold.it/75">
+        <ion-card-content>
+          <ion-card-title>
+            <p>আর-রহ'মান</p>
+          </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+  </ion-col>
+  </ion-row>
+
+
+
+-->
+  </ion-grid>
+
 </ion-content>
